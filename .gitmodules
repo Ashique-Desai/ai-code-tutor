@@ -1,0 +1,4 @@
+[submodule "openai-java"]
+	url = https://github.com/Ashique-Desai/openai-java.git
+[submodule "web-ui"]
+	url = https://github.com/Ashique-Desai/web-ui.git
